@@ -13,11 +13,12 @@ pip install tk pandas opencv-python-headless ultralytics pyserial
 
 ### Running the Project
 
-1. Download the project files from Google Drive:
+1. Download the project files from Google Drive and extract them:
 
    ```bash
     https://drive.google.com/drive/folders/191eQpfxMc9e565e2T6DUZJM2tEdVbnbd?usp=drive_link
    ```
+   After downloading, extract the contents of the downloaded zip file to your desired location on your local machine.
 
 2. Navigate to the project directory:
 
