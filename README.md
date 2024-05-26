@@ -13,10 +13,10 @@ pip install tk pandas opencv-python-headless ultralytics pyserial
 
 ### Running the Project
 
-1. Clone the repository to your local machine:
+1. Download the project files from Google Drive:
 
    ```bash
-   git clone https://github.com/your-username/automatic-ramp-regulation-system.git
+    https://drive.google.com/drive/folders/191eQpfxMc9e565e2T6DUZJM2tEdVbnbd?usp=drive_link
    ```
 
 2. Navigate to the project directory:
@@ -52,6 +52,6 @@ pip install tk pandas opencv-python-headless ultralytics pyserial
 
 ## Acknowledgements
 
-This project was developed as part of the course requirements for [insert course name here]. We would like to thank Dr. Abdulmohsen Mutairi for his guidance and support throughout the development process.
+This project was developed as part of the course requirements for Our Graduation Project. We would like to thank Dr. Abdulmohsen Mutairi for his guidance and support throughout the development process.
 
-For any inquiries, please contact [insert your email here].
+For any inquiries, please contact 438102038@student.ksu.edu.sa and 438103946@student.ksu.edu.sa.
